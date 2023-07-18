@@ -1,5 +1,5 @@
-name: Chrome New
-
+name: Chrome IGS
+    
 on: 
     workflow_dispatch: # allow for manual execution
     push:
