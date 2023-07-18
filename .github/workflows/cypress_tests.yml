@@ -1,6 +1,7 @@
-name: Cypress Tests
+name: Cypress Tests Updated
 
 on:
+  workflow_dispatch: # allow for manual execution
   push:
     branches:
       - integrations
